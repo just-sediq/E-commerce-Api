@@ -1,0 +1,531 @@
+[
+  {
+    "id": 0,
+    "sku": "KB-MEC-001",
+    "name": "Wireless Mechanical Keyboard",
+    "slug": "wireless-mechanical-keyboard",
+    "description": "Compact 75% layout mechanical keyboard with hot-swappable tactile switches and RGB backlighting.",
+    "category": "electronics",
+    "brand": "Keycraft",
+    "price": 89.99,
+    "compareAtPrice": 109.99,
+    "stock": 45,
+    "rating": 4.8,
+    "attributes": {
+      "color": "Midnight Gray",
+      "connectivity": "Bluetooth / 2.4GHz / USB-C",
+      "switchType": "Tactile Brown"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-10T10:00:00Z"
+  },
+  {
+    "id": 1,
+    "sku": "MS-ERG-002",
+    "name": "Ergonomic Precision Mouse",
+    "slug": "ergonomic-precision-mouse",
+    "description": "Vertical ergonomic wireless mouse designed to reduce wrist strain during long work hours.",
+    "category": "electronics",
+    "brand": "LogiTech",
+    "price": 59.99,
+    "compareAtPrice": 69.99,
+    "stock": 80,
+    "rating": 4.6,
+    "attributes": {
+      "color": "Graphite",
+      "dpi": "4000 DPI Sensor",
+      "handOrientation": "Right"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-11T11:15:00Z"
+  },
+  {
+    "id": 2,
+    "sku": "MN-4K-003",
+    "name": "27-inch 4K UHD USB-C Monitor",
+    "slug": "27-inch-4k-uhd-usbc-monitor",
+    "description": "IPS display with 99% sRGB coverage, HDR400, and 65W USB-C power delivery.",
+    "category": "electronics",
+    "brand": "ViewPro",
+    "price": 329.99,
+    "compareAtPrice": 379.99,
+    "stock": 18,
+    "rating": 4.7,
+    "attributes": {
+      "screenSize": "27 inch",
+      "resolution": "3840x2160",
+      "refreshRate": "60Hz"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-12T09:30:00Z"
+  },
+  {
+    "id": 3,
+    "sku": "HD-ANC-004",
+    "name": "Noise-Canceling Wireless Headphones",
+    "slug": "noise-canceling-wireless-headphones",
+    "description": "Over-ear Bluetooth headphones with active noise cancellation and up to 40 hours of battery life.",
+    "category": "audio",
+    "brand": "SoundWave",
+    "price": 149.99,
+    "compareAtPrice": 189.99,
+    "stock": 32,
+    "rating": 4.9,
+    "attributes": {
+      "color": "Matte Black",
+      "batteryLife": "40 Hours",
+      "hasMic": true
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-12T14:20:00Z"
+  },
+  {
+    "id": 4,
+    "sku": "SP-BT-005",
+    "name": "Portable Waterproof Bluetooth Speaker",
+    "slug": "portable-waterproof-bluetooth-speaker",
+    "description": "Rugged IPX7 waterproof speaker delivering 360-degree sound with deep bass.",
+    "category": "audio",
+    "brand": "SoundWave",
+    "price": 49.99,
+    "compareAtPrice": 59.99,
+    "stock": 120,
+    "rating": 4.5,
+    "attributes": {
+      "color": "Ocean Blue",
+      "waterproofRating": "IPX7",
+      "batteryLife": "12 Hours"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-13T08:00:00Z"
+  },
+  {
+    "id": 5,
+    "sku": "CH-ERG-006",
+    "name": "Ergonomic Mesh Office Chair",
+    "slug": "ergonomic-mesh-office-chair",
+    "description": "Breathable mesh task chair with adjustable lumbar support, armrests, and headrest.",
+    "category": "furniture",
+    "brand": "ComfortSpace",
+    "price": 199.5,
+    "compareAtPrice": 249.99,
+    "stock": 12,
+    "rating": 4.6,
+    "attributes": {
+      "color": "Black",
+      "material": "Breathable Mesh",
+      "maxWeight": "300 lbs"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1580481072645-022f9a6d1270"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-14T10:45:00Z"
+  },
+  {
+    "id": 6,
+    "sku": "DK-ST-007",
+    "name": "Electric Standing Desk (55x28 inch)",
+    "slug": "electric-standing-desk-55x28",
+    "description": "Motorized height-adjustable desk with memory presets and built-in cable management tray.",
+    "category": "furniture",
+    "brand": "ComfortSpace",
+    "price": 299.99,
+    "compareAtPrice": 349.99,
+    "stock": 15,
+    "rating": 4.8,
+    "attributes": {
+      "topColor": "Walnut",
+      "frameColor": "Black",
+      "heightRange": "28 to 48 inches"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1595515106969-1ce29566ff1c"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-15T12:00:00Z"
+  },
+  {
+    "id": 7,
+    "sku": "LP-ST-008",
+    "name": "Aluminum Ergonomic Laptop Stand",
+    "slug": "aluminum-ergonomic-laptop-stand",
+    "description": "Sturdy elevated aluminum stand compatible with all 10 to 17 inch laptops.",
+    "category": "accessories",
+    "brand": "DeskCraft",
+    "price": 29.99,
+    "compareAtPrice": 39.99,
+    "stock": 95,
+    "rating": 4.7,
+    "attributes": {
+      "material": "Anodized Aluminum",
+      "color": "Silver",
+      "compatibility": "10-17 inch Laptops"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-16T15:30:00Z"
+  },
+  {
+    "id": 8,
+    "sku": "CG-65W-009",
+    "name": "65W Dual USB-C GaN Charger",
+    "slug": "65w-dual-usbc-gan-charger",
+    "description": "Ultra-compact fast charger for laptops, tablets, and smartphones using GaN technology.",
+    "category": "electronics",
+    "brand": "VoltPulse",
+    "price": 34.99,
+    "compareAtPrice": 44.99,
+    "stock": 150,
+    "rating": 4.9,
+    "attributes": {
+      "ports": "2x USB-C, 1x USB-A",
+      "maxOutput": "65W",
+      "technology": "Gallium Nitride (GaN)"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1583863788434-e58a36330cf0"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-17T09:10:00Z"
+  },
+  {
+    "id": 9,
+    "sku": "SW-FIT-010",
+    "name": "Fitness Tracker Smartwatch",
+    "slug": "fitness-tracker-smartwatch",
+    "description": "Water-resistant smartwatch with heart rate monitoring, sleep tracking, and GPS.",
+    "category": "wearables",
+    "brand": "PulseTech",
+    "price": 79.99,
+    "compareAtPrice": 99.99,
+    "stock": 60,
+    "rating": 4.4,
+    "attributes": {
+      "color": "Space Gray",
+      "screenType": "1.4-inch AMOLED",
+      "batteryLife": "7 Days"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-18T16:00:00Z"
+  },
+  {
+    "id": 10,
+    "sku": "BL-LED-012",
+    "name": "Monitor Dark Bar LED Lamp",
+    "slug": "monitor-light-bar-led-lamp",
+    "description": "Screenbar lamp with auto-dimming and customizable color temperature to reduce eye strain.",
+    "category": "accessories",
+    "brand": "DeskCraft",
+    "price": 39.99,
+    "compareAtPrice": 49.99,
+    "stock": 40,
+    "rating": 4.8,
+    "attributes": {
+      "powerSource": "USB Powered",
+      "colorTemperature": "3000K - 6500K",
+      "control": "Touch Sensor"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1517048676732-d65bc937f952"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-20T13:40:00Z"
+  },
+  {
+    "id": 11,
+    "sku": "WL-PAD-013",
+    "name": "3-in-1 Fast Wireless Charging Station",
+    "slug": "3-in-1-fast-wireless-charging-station",
+    "description": "Charge your smartphone, smartwatch, and wireless earbuds simultaneously.",
+    "category": "electronics",
+    "brand": "VoltPulse",
+    "price": 42.5,
+    "compareAtPrice": 52.5,
+    "stock": 50,
+    "rating": 4.5,
+    "attributes": {
+      "color": "White",
+      "output": "15W Fast Charge",
+      "compatibility": "Qi-Enabled Devices"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1622445268465-843dcb0741eb"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T08:20:00Z"
+  },
+  {
+    "id": 12,
+    "sku": "TS-COT-014",
+    "name": "Classic Organic Cotton T-Shirt",
+    "slug": "classic-organic-cotton-tshirt",
+    "description": "100% certified organic cotton crewneck t-shirt with a soft feel and modern fit.",
+    "category": "apparel",
+    "brand": "ThreadCo",
+    "price": 24.99,
+    "compareAtPrice": 29.99,
+    "stock": 200,
+    "rating": 4.6,
+    "attributes": {
+      "color": "Navy Blue",
+      "size": "L",
+      "material": "100% Organic Cotton"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "sku": "HD-ZIP-015",
+    "name": "Fleece Zip-Up Hoodie",
+    "slug": "fleece-zip-up-hoodie",
+    "description": "Warm and comfortable heavyweight fleece hoodie with durable brass zipper.",
+    "category": "apparel",
+    "brand": "ThreadCo",
+    "price": 49.99,
+    "compareAtPrice": 59.99,
+    "stock": 85,
+    "rating": 4.7,
+    "attributes": {
+      "color": "Heather Gray",
+      "size": "M",
+      "material": "80% Cotton / 20% Polyester"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T09:30:00Z"
+  },
+  {
+    "id": 15,
+    "sku": "MC-USB-017",
+    "name": "Condenser USB Microphone",
+    "slug": "condenser-usb-microphone",
+    "description": "Plug-and-play USB cardioid microphone ideal for podcasting, streaming, and voiceovers.",
+    "category": "audio",
+    "brand": "VoxStudio",
+    "price": 69.99,
+    "compareAtPrice": 84.99,
+    "stock": 35,
+    "rating": 4.7,
+    "attributes": {
+      "polarPattern": "Cardioid",
+      "sampleRate": "24-bit / 96kHz",
+      "connector": "USB-C"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T10:30:00Z"
+  },
+  {
+    "id": 16,
+    "sku": "CM-HD-018",
+    "name": "1080p HD Streaming Webcam",
+    "slug": "1080p-hd-streaming-webcam",
+    "description": "Full HD webcam with built-in dual noise-reducing microphones and privacy shutter.",
+    "category": "electronics",
+    "brand": "ViewPro",
+    "price": 49.99,
+    "compareAtPrice": 59.99,
+    "stock": 65,
+    "rating": 4.5,
+    "attributes": {
+      "resolution": "1080p @ 60fps",
+      "fieldOfView": "78 degrees",
+      "autofocus": true
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1587826080692-f439cd0b70da"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T11:00:00Z"
+  },
+  {
+    "id": 17,
+    "sku": "MP-XL-019",
+    "name": "Extended Gaming Mouse Pad XL",
+    "slug": "extended-gaming-mouse-pad-xl",
+    "description": "Large desk mat with stitched edges and non-slip rubber base for smooth tracking.",
+    "category": "accessories",
+    "brand": "DeskCraft",
+    "price": 19.99,
+    "compareAtPrice": 24.99,
+    "stock": 140,
+    "rating": 4.8,
+    "attributes": {
+      "dimensions": "900 x 400 x 3 mm",
+      "color": "Stealth Black",
+      "surface": "Smooth Micro-Weave Fabric"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1616440347437-b1c73416efc2"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T11:30:00Z"
+  },
+  {
+    "id": 18,
+    "sku": "CF-MA-020",
+    "name": "Pour-Over Glass Coffee Maker",
+    "slug": "pour-over-glass-coffee-maker",
+    "description": "Heat-resistant borosilicate glass coffee maker with reusable stainless steel mesh filter.",
+    "category": "lifestyle",
+    "brand": "BrewCraft",
+    "price": 29.5,
+    "compareAtPrice": 35,
+    "stock": 45,
+    "rating": 4.8,
+    "attributes": {
+      "capacity": "800 ml (27 oz)",
+      "material": "Borosilicate Glass",
+      "filter": "Stainless Steel Permanent Filter"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T12:00:00Z"
+  },
+  {
+    "id": 19,
+    "sku": "SS-NV-021",
+    "name": "512GB NVMe M.2 SSD",
+    "slug": "512gb-nvme-m2-ssd",
+    "description": "High-speed PCIe 4.0 internal solid state drive with read speeds up to 5000 MB/s.",
+    "category": "electronics",
+    "brand": "VoltPulse",
+    "price": 54.99,
+    "compareAtPrice": 64.99,
+    "stock": 70,
+    "rating": 4.9,
+    "attributes": {
+      "capacity": "512 GB",
+      "interface": "PCIe Gen 4.0 x4",
+      "formFactor": "M.2 2280"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T12:30:00Z"
+  },
+  {
+    "id": 20,
+    "sku": "CB-USBC-022",
+    "name": "Braided USB-C to USB-C Cable (6.6ft)",
+    "slug": "braided-usbc-to-usbc-cable-6.6ft",
+    "description": "Durable nylon braided 100W PD charging cable with reinforced connectors.",
+    "category": "accessories",
+    "brand": "VoltPulse",
+    "price": 12.99,
+    "compareAtPrice": 16.99,
+    "stock": 250,
+    "rating": 4.7,
+    "attributes": {
+      "length": "6.6 feet (2 meters)",
+      "powerDelivery": "Up to 100W",
+      "material": "Nylon Braided"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T13:00:00Z"
+  },
+  {
+    "id": 21,
+    "sku": "LM-DESK-023",
+    "name": "Architect LED Desk Lamp",
+    "slug": "architect-led-desk-lamp",
+    "description": "Flexible swing arm clamp lamp with multiple brightness levels and memory function.",
+    "category": "furniture",
+    "brand": "ComfortSpace",
+    "price": 36.99,
+    "compareAtPrice": 44.99,
+    "stock": 30,
+    "rating": 4.6,
+    "attributes": {
+      "mountType": "Table Clamp",
+      "lightModes": "5 Color Modes x 5 Brightness Levels",
+      "power": "12W LED"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1534349735944-2b3a6f7a268f"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T13:30:00Z"
+  },
+  {
+    "id": 22,
+    "sku": "EB-TW-024",
+    "name": "True Wireless Earbuds with Charging Case",
+    "slug": "true-wireless-earbuds-with-charging-case",
+    "description": "In-ear wireless earbuds with touch controls, deep bass, and IPX5 sweat resistance.",
+    "category": "audio",
+    "brand": "SoundWave",
+    "price": 39.99,
+    "compareAtPrice": 49.99,
+    "stock": 90,
+    "rating": 4.5,
+    "attributes": {
+      "color": "Matte White",
+      "playtime": "6 hours (24 total with case)",
+      "resistance": "IPX5"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T14:00:00Z"
+  },
+  {
+    "id": 23,
+    "sku": "PB-20K-025",
+    "name": "20,000mAh Ultra-High Capacity Power Bank",
+    "slug": "20000mah-ultra-high-capacity-power-bank",
+    "description": "Fast-charging portable battery bank capable of charging smartphones 4-5 times over.",
+    "category": "electronics",
+    "brand": "VoltPulse",
+    "price": 44.99,
+    "compareAtPrice": 54.99,
+    "stock": 115,
+    "rating": 4.8,
+    "attributes": {
+      "capacity": "20,000 mAh",
+      "output": "22.5W Fast Charge",
+      "display": "LED Battery Percentage Display"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1609592424009-5a1e7471249b"
+    ],
+    "isActive": true,
+    "createdAt": "2026-08-21T14:30:00Z"
+  }
+]

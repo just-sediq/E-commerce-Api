@@ -1,0 +1,17 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Mathew Sediq",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "morgan": "^1.12.1",
+    "nodemon": "^3.1.14"
+  }
+}

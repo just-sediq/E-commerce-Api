@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "itemId": "item_01",
+    "productId": "prod_01",
+    "name": "Wireless Mechanical Keyboard",
+    "sku": "KB-MEC-001",
+    "price": 89.99,
+    "quantity": 1,
+    "image": "https://cdn.example.com/products/keyboard-front.jpg",
+    "subtotal": 89.99
+  },
+  {
+    "id": 2,
+    "itemId": "item_02",
+    "productId": "prod_02",
+    "name": "Ergonomic Office Chair",
+    "sku": "CHR-ERG-002",
+    "price": 249.99,
+    "quantity": 1,
+    "image": "https://cdn.example.com/products/chair-side.jpg",
+    "subtotal": 249.99
+  },
+  {
+    "id": 3,
+    "itemId": "item_03",
+    "productId": "prod_05",
+    "name": "USB-C Multi-Port Hub",
+    "sku": "HUB-USB-005",
+    "price": 34.99,
+    "quantity": 2,
+    "image": "https://cdn.example.com/products/hub-top.jpg",
+    "subtotal": 69.98
+  }
+]
